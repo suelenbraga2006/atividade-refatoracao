@@ -1,0 +1,26 @@
+{
+  "name": "atividade-refatoracao",
+  "homepage": "https://github.com/suelenbraga2006/atividade-refatoracao",
+  "authors": [
+    "Suelen Braga <suelen.braga2006@gmail.com>"
+  ],
+  "description": "Atividade do modulo de Refatoracao",
+  "main": "source/index.html",
+  "keywords": [
+    "atividade",
+    "refatoracao",
+    "bootstrap4",
+    "certificacao"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
